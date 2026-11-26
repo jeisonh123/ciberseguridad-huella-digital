@@ -157,7 +157,7 @@ Nuestro propósito: comprender que la seguridad digital es una responsabilidad c
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>allowToggle</key>
-          <value>true</value>
+          <value>false</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
